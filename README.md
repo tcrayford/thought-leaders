@@ -8,6 +8,10 @@ No one, to my knowledge, has assembled the authoritative list of internet though
 
 Fork this repo and send a pull request. Myself and/or other approved TLs will review submissions. You can also [file a new issue](https://github.com/PharkMillups/thought-leaders/issues/new) asking to add a specific thought leader. Make sure to be explicit. Additionally, you can add areas of expertise to existing thought leaders that may have been overlooked. 
 
+### Disclaimer
+
+In case it isn't obvious, this is a joke. What's worse, it's riddled with insides jokes. If your name ends up on here and you don't want it to be, tell me and I'll happily remove it. If for some reason this joke upsets you, I'm sorry. Email me and tell me why so we can talk about it. 
+
 ### The Thought Leaders (and the areas in which they lead thoughts)
 
 * [Andy Gross](https://twitter.com/argv0) - Distributed Systems, United 1K Benefits, Dive Bars. 
