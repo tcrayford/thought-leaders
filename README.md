@@ -32,6 +32,5 @@ In case it isn't obvious, this is a joke. What's worse, it's riddled with inside
 * [Ben Horowitz](http://bhorowitz.com/) - ODB. 
 * [Bryan Cantrill](twitter.com/bcantrill) - Enthusiasm, troff. 
 * [Brandon Burton](https://twitter.com/solarce) - Meme generation and proliferation, `init.d`.  
-* [Jackson Preston-Werner](http://instagram.com/p/SbpOOUp2NV/) - Pull requests, livin' large. 
 * [Tim Anglade](https://twitter.com/timanglade) - NoSQL. 
 * [Peter Bailis](https://twitter.com/pbailis) - Ryan Gosling, The Apache Cassandra™ Jira. 
