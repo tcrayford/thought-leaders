@@ -34,3 +34,4 @@ In case it isn't obvious, this is a joke. What's worse, it's riddled with inside
 * [Brandon Burton](https://twitter.com/solarce) - Meme generation and proliferation, `init.d`.  
 * [Tim Anglade](https://twitter.com/timanglade) - NoSQL. 
 * [Peter Bailis](https://twitter.com/pbailis) - Ryan Gosling, The Apache Cassandra™ Jira. 
+* [Benjamin Black](https://twitter.com/b6n) - coverlovers.tumblr.com. 
